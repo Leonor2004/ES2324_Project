@@ -1,0 +1,357 @@
+{
+  "1": {
+    "from": "Infante",
+    "number": "E1",
+    "to": "Passeio Alegre"
+  },
+  "18": {
+    "from": "Clérigos",
+    "number": "E18",
+    "to": "Passeio Alegre"
+  },
+  "106": {
+    "from": "Valadares (Estação)",
+    "number": "ZF",
+    "to": "Francelos"
+  },
+  "107": {
+    "from": "Estádio do Dragão",
+    "number": "ZC",
+    "to": "Areias"
+  },
+  "200": {
+    "from": "Bolhão",
+    "number": "200",
+    "to": "Cast. Queijo"
+  },
+  "201": {
+    "from": "Aliados",
+    "number": "201",
+    "to": "Viso"
+  },
+  "202": {
+    "from": "Aliados",
+    "number": "202",
+    "to": "Passeio Alegre (via Av. Bessa)"
+  },
+  "203": {
+    "from": "Marquês",
+    "number": "203",
+    "to": "Cast.Queijo"
+  },
+  "204": {
+    "from": "Hospital De S.João",
+    "number": "204",
+    "to": "Foz"
+  },
+  "205": {
+    "from": "Campanhã",
+    "number": "205",
+    "to": "Castelo Do Queijo"
+  },
+  "206": {
+    "from": "Campanhã",
+    "number": "206",
+    "to": "Viso"
+  },
+  "207": {
+    "from": "Campanhã",
+    "number": "207",
+    "to": "Mercado Da Foz"
+  },
+  "208": {
+    "from": "Aliados",
+    "number": "208",
+    "to": "Aldoar"
+  },
+  "209": {
+    "from": "Pasteleira",
+    "number": "209",
+    "to": "Prelada"
+  },
+  "300": {
+    "from": "Circular Hospital De S.João",
+    "number": "300",
+    "to": "Aliados"
+  },
+  "301": {
+    "from": "Circular Hospital S.João",
+    "number": "301",
+    "to": "Sá Da Bandeira"
+  },
+  "302": {
+    "from": "Circular Aliados",
+    "number": "302",
+    "to": "Damião De Gois"
+  },
+  "303": {
+    "from": "Circular Praça Da Liberdade",
+    "number": "303",
+    "to": "Constituição"
+  },
+  "304": {
+    "from": "Aliados",
+    "number": "304",
+    "to": "Sta. Luzia"
+  },
+  "305": {
+    "from": "Cordoaria",
+    "number": "305",
+    "to": "Hospital De S.João"
+  },
+  "400": {
+    "from": "Aliados",
+    "number": "400",
+    "to": "Parque Nascente"
+  },
+  "401": {
+    "from": "Bolhão",
+    "number": "401",
+    "to": "S.Roque"
+  },
+  "402": {
+    "from": "Boavista",
+    "number": "402",
+    "to": "S.Roque"
+  },
+  "403": {
+    "from": "Boavista (Casa Música)",
+    "number": "403",
+    "to": "Campanhã"
+  },
+  "500": {
+    "from": "Praça Liberdade",
+    "number": "500",
+    "to": "Matosinhos (Mercado)"
+  },
+  "501": {
+    "from": "Aliados",
+    "number": "501",
+    "to": "Matosinhos (Praia)"
+  },
+  "502": {
+    "from": "Bolhão",
+    "number": "502",
+    "to": "Matosinhos (Mercado)"
+  },
+  "503": {
+    "from": "Boavista (Bom Sucesso)",
+    "number": "503",
+    "to": "Gatões"
+  },
+  "504": {
+    "from": "Boavista",
+    "number": "504",
+    "to": "Norteshopping"
+  },
+  "505": {
+    "from": "Hospital S. João",
+    "number": "505",
+    "to": "Matosinhos (Mercado)"
+  },
+  "506": {
+    "from": "Hospital S.João",
+    "number": "506",
+    "to": "Matosinhos (Mercado)"
+  },
+  "507": {
+    "from": "Cordoaria",
+    "number": "507",
+    "to": "Mar Shopping"
+  },
+  "508": {
+    "from": "Boavista",
+    "number": "508",
+    "to": "Cabo Mundo (via Mar Shop.)"
+  },
+  "600": {
+    "from": "Aliados",
+    "number": "600",
+    "to": "Maia(Barca)"
+  },
+  "601": {
+    "from": "Cordoaria",
+    "number": "601",
+    "to": "Aeroporto (via Mar Shopping)"
+  },
+  "602": {
+    "from": "Cordoaria",
+    "number": "602",
+    "to": "Aeroporto (via Padrão Moreira)"
+  },
+  "603": {
+    "from": "Marquês",
+    "number": "603",
+    "to": "Maia"
+  },
+  "604": {
+    "from": "Hospital S.João",
+    "number": "604",
+    "to": "Aeroporto(via Crestins)"
+  },
+  "700": {
+    "from": "Bolhão",
+    "number": "700",
+    "to": "Campo"
+  },
+  "701": {
+    "from": "Bolhão",
+    "number": "701",
+    "to": "Codiceira"
+  },
+  "702": {
+    "from": "Bolhão",
+    "number": "702",
+    "to": "Travagem"
+  },
+  "703": {
+    "from": "Cordoaria",
+    "number": "703",
+    "to": "Sonhos"
+  },
+  "704": {
+    "from": "Boavista",
+    "number": "704",
+    "to": "Codiceira"
+  },
+  "705": {
+    "from": "Hospital S. João",
+    "number": "705",
+    "to": "Valongo (Continente)"
+  },
+  "706": {
+    "from": "H.S.João",
+    "number": "706",
+    "to": "Ermesinde(Est)via Mte Penedo"
+  },
+  "707": {
+    "from": "H.S.João",
+    "number": "707",
+    "to": "Ermesinde(Est)via Arregadas"
+  },
+  "800": {
+    "from": "Bolhão",
+    "number": "800",
+    "to": "Gondomar"
+  },
+  "801": {
+    "from": "Cordoaria",
+    "number": "801",
+    "to": "S.Pedro Da Cova"
+  },
+  "803": {
+    "from": "Boavista",
+    "number": "803",
+    "to": "Rio Tinto(Esc. Sec.)"
+  },
+  "804": {
+    "from": "Hospital S.João",
+    "number": "804",
+    "to": "S.Pedro Da Cova"
+  },
+  "805": {
+    "from": "Marquês",
+    "number": "805",
+    "to": "Rio Tinto (Estação)"
+  },
+  "806": {
+    "from": "Marquês",
+    "number": "806",
+    "to": "Fânzeres (Metro)"
+  },
+  "900": {
+    "from": "Cordoaria",
+    "number": "900",
+    "to": "Sto. Ovídio"
+  },
+  "901": {
+    "from": "Trindade",
+    "number": "901",
+    "to": "Valadares"
+  },
+  "902": {
+    "from": "Boavista",
+    "number": "902",
+    "to": "Lavadores"
+  },
+  "903": {
+    "from": "Boavista",
+    "number": "903",
+    "to": "Vilar Do Paraíso"
+  },
+  "904": {
+    "from": "Bolhão",
+    "number": "904",
+    "to": "Coimbrões"
+  },
+  "905": {
+    "from": "Bolhão",
+    "number": "905",
+    "to": "Monte Da Virgem"
+  },
+  "906": {
+    "from": "Trindade",
+    "number": "906",
+    "to": "Madalena"
+  },
+  "907": {
+    "from": "Boavista",
+    "number": "907",
+    "to": "Vila D'Este"
+  },
+  "10M": {
+    "from": "Av.Aliados",
+    "number": "10M",
+    "to": "Vila D'Este"
+  },
+  "11M": {
+    "from": "Hosp. S. João",
+    "number": "11M",
+    "to": "Coimbrões"
+  },
+  "12M": {
+    "from": "Av.Aliados",
+    "number": "12M",
+    "to": "Sto.Ovídio"
+  },
+  "13M": {
+    "from": "Av.Aliados",
+    "number": "13M",
+    "to": "Matosinhos (Mercado)"
+  },
+  "1M": {
+    "from": "Av.Aliados",
+    "number": "1M",
+    "to": "Matosinhos (Praia)"
+  },
+  "3M": {
+    "from": "Av.Aliados",
+    "number": "3M",
+    "to": "Aeroporto"
+  },
+  "4M": {
+    "from": "Av.Aliados",
+    "number": "4M",
+    "to": "Maia (Câmara)"
+  },
+  "5M": {
+    "from": "Av.Aliados",
+    "number": "5M",
+    "to": "Ermesinde (Estação)"
+  },
+  "7M": {
+    "from": "Av.Aliados",
+    "number": "7M",
+    "to": "Valongo"
+  },
+  "8M": {
+    "from": "Av.Aliados",
+    "number": "8M",
+    "to": "S.Pedro Da Cova"
+  },
+  "9M": {
+    "from": "Rotunda Aep",
+    "number": "9M",
+    "to": "Gondomar (via H. S. João)"
+  }
+}

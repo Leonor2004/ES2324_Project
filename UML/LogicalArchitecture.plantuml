@@ -1,0 +1,29 @@
+@startuml logical
+!theme toy
+
+frame "Maze Logical View" {
+    package "Maze App System" {
+        package "Maze App Logic" as logic {
+            [Stops] as stop
+            [Timetables] as time
+            [User Reports] as report
+            [Line Contributions] as line
+            [User Data] as user
+            [Navigation System] as navigation
+        }
+
+        component "Mobile App GUI" as gui
+        component "Local Storage" as local
+    }
+
+    package "External Services" as external {
+        [Open Street Maps] as map
+        [Firebase] as db
+    }
+
+    gui .> logic
+    logic .> local
+    logic ..> external
+}
+
+@enduml

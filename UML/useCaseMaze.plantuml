@@ -1,0 +1,60 @@
+@startuml Maze
+skinparam actorStyle awesome
+!theme toy
+left to right direction 
+
+actor "User" as user
+database "System" as sys
+entity "Platform API" as papi 
+'hehe
+entity "STCP API" as sapi
+
+package "Journey Planning" {
+    usecase "View all upcoming buses at a bus stop" as UC1
+    usecase "View time left for a specific bus \n to arrive at a chosen stop" as UC2
+    usecase "View options depending \n on departure/arrival time" as UC3
+    usecase "View options depending on \n departure/arrival bus stop" as UC4
+}
+
+package "Community Interaction" {
+    usecase "Report a late bus or incident" as UC5
+    usecase "Report catching a bus" as UC6
+    usecase "Rate bus/coherence reports" as UC7
+}
+
+package "User Reputation System" {
+    usecase "Alter user reputation \n based on coherence reports" as UC8
+    usecase "Insert bus stops, routes and schedules" as UC9
+}
+
+package "Profile Manager" {
+    usecase "Save my app score by signing in \n with other platforms" as UC10
+    usecase "Use a profile picture by signing in \n with other platforms" as UC11
+}
+
+UC2 -|> UC1
+
+user --> UC1
+user --> UC2
+user --> UC3
+user --> UC4
+
+user --> UC5
+user --> UC6
+user --> UC7
+
+sys  -> UC8
+sys  -> UC9
+
+user --> UC10
+user --> UC11
+
+sapi -|> UC9
+
+papi --> UC10
+papi --> UC11
+
+@enduml
+
+'ESTE PLANT UML TÁ BUÉ MAU PORQUE NAO SEI COMO COLOCAR AS CENAS NOS SITIOS QUE QUERO, DESCULPEM
+' - ramos
