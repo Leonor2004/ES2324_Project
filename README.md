@@ -5,6 +5,8 @@
 Welcome to the documentation pages of the MAZE App.
 You can find details about our app, from a high-level vision to low-level implementation decisions, a Software Development Report, organized by types of activities.
 
+Project grade: 18
+
 #### ES Project made by:
 
 - Alexandre Ramos (up202208028@up.pt)
